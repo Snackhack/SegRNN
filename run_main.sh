@@ -7,6 +7,7 @@ sh scripts/SegRNN/weather.sh;
 sh scripts/SegRNN/electricity.sh;
 sh scripts/SegRNN/traffic.sh;
 sh scripts/SegRNN/ill.sh;
+sh scripts/SegRNN/custom_V2.sh;
 
 
 # Lookback = 96 & MSE
@@ -17,3 +18,4 @@ sh scripts/SegRNN/Lookback_96/ettm2.sh;
 sh scripts/SegRNN/Lookback_96/weather.sh;
 sh scripts/SegRNN/Lookback_96/electricity.sh;
 sh scripts/SegRNN/Lookback_96/traffic.sh;
+sh scripts/SegRNN/Lookback_96/custom_V2.sh;
